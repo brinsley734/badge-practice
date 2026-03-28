@@ -2,6 +2,6 @@
 
 Learning GitHub badges 🚀
 
-YOLO badge incoming 😅
+YOLO badge incoming 😅x
 
 Updating badge trigger
